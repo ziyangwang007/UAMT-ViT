@@ -12,6 +12,6 @@ Some basic python packages such as Numpy, Scikit-image, SimpleITK, Scipy ......
 
 Acknowledgement
 We sincerely thank these author for their fantastic and efficient codebase,
-[SSL4MIS](https://github.com/HiLab-git/SSL4MIS)
-[UA-MT](https://github.com/yulequan/UA-MT)
+[SSL4MIS](https://github.com/HiLab-git/SSL4MIS),
+[UA-MT](https://github.com/yulequan/UA-MT),
 [Segmenter](https://github.com/rstrudel/segmenter)
